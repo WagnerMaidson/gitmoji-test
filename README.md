@@ -15,3 +15,4 @@
 | [`git stash show`]() | As modificações armazenadas por este comando podem ser inspecionadas `git stash show` |
 | [`git stash apply `]() | As modificações armazenadas por este comando podem ser restauradas (potencialmente em cima de um commit diferente) com `git stash apply` |
 | [`git stash pop `]() | Remova um único estado de stash da lista de stash e aplique-o no topo do estado da árvore de trabalho atual, ou seja, faça a operação inversa de `git stash push`. O diretório de trabalho deve corresponder ao índice. |
+| [`git checkout -- fileName`]() | Remove arquivo não adicionado |
