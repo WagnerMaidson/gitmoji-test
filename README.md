@@ -15,4 +15,4 @@
 | [`git stash show`]() | As modificações armazenadas por este comando podem ser inspecionadas `git stash show` |
 | [`git stash apply `]() | As modificações armazenadas por este comando podem ser restauradas (potencialmente em cima de um commit diferente) com `git stash apply` |
 | [`git stash pop `]() | Remova um único estado de stash da lista de stash e aplique-o no topo do estado da árvore de trabalho atual, ou seja, faça a operação inversa de `git stash push`. O diretório de trabalho deve corresponder ao índice. |
-| [`git checkout -- fileName`]() | Remove arquivo não adicionado |
+| [`git checkout -- fileName`](https://git-scm.com/docs/git-checkout) | Prepare-se para trabalhar em cima <commit>, desanexando HEAD-o (consulte a seção "CABEÇA DESTACADA") e atualizando o índice e os arquivos na árvore de trabalho. As modificações locais nos arquivos na árvore de trabalho são mantidas, de forma que a árvore de trabalho resultante será o estado registrado no commit mais as modificações locais. |
