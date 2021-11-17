@@ -3,10 +3,9 @@
 | ------ | ------ |
 | [`git-reflog`](https://git-scm.com/docs/git-reflog) | Logs de referência |
 | [`git reset HEAD@{1}`](https://git-scm.com/docs/git-reflog) | Pegamos o index do qual desejamos voltar |
-
 | [`git-diff`]() | Mostra mudanças entre commits, commit e árvore de trabalho |
 | [`git-diff --cached`]() | Esta opção faz com que a entrada apareça como um novo arquivo em "git diff" |
-| [`git-reset`]()  | Redefine o HEAD atual para o estado especificado |
+| [`git-reset`]() | Redefine o HEAD atual para o estado especificado |
 | [`git-reset --hard`]() | Redefine o índice e a árvore de trabalho. Quaisquer alterações nos arquivos rastreados na árvore de trabalho desde `<commit>` são descartadas. |
 | [`git-add -u`]() | Atualize o índice apenas onde ele já possui uma entrada correspondente a `<pathspec>`. Isso remove e também modifica as entradas de índice para corresponder à árvore de trabalho, mas não adiciona novos arquivos. |
 | [`git-checkout -`]() | Alterne ramos ou restaure arquivos de árvore de trabalho - retorna na última branch |
