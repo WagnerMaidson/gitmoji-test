@@ -1,5 +1,5 @@
 
-[learngitbranching](https://learngitbranching.js.org/?locale=pt_BR)
+[Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
 
 | Nome | Descrição |
 | ------ | ------ |
@@ -23,4 +23,4 @@
 | [`git checkout -D fileName`](https://git-scm.com/docs/git-checkout) | Em vez de verificar um branch para trabalhar nele, verifique um commit para inspeção e experimentos descartáveis. Este é o comportamento padrão de git checkout <commit>quando <commit>não é um nome de ramificação. Consulte a seção "CABEÇA DESTACADA" abaixo para obter detalhes. |
 | [`git-cherry-pick`](https://git-scm.com/docs/git-cherry-pick) | Aplica as mudanças introduzidas por alguns commits existentes |
 | [`git merge-base`](https://git-scm.com/docs/git-cherry-pick) | encontra os melhores ancestrais comuns entre dois commits para usar em uma fusão de três vias. Um ancestral comum é melhor do que outro ancestral comum se este for um ancestral do primeiro. |
-|[git log --oneline -5](https://chris.beams.io/posts/git-commit/)| últimos 5 commits |
+|[`git log --oneline -5`](https://chris.beams.io/posts/git-commit/)| últimos 5 commits |
