@@ -5,6 +5,9 @@
 | ------ | ------ |
 | [`git-reflog`](https://git-scm.com/docs/git-reflog) | Logs de referência |
 | [`git reset HEAD@{1}`](https://git-scm.com/docs/git-reflog) | Pegamos o index do qual desejamos voltar |
+| [`git branch -D`]() | Shortcut for `--delete` `--force` |
+|[`git branch -d`]() | Delete a branch. `-d` or `--delete` |
+|[`git switch -c`]() | with `-c` switch to new-branch |
 | [`git-diff`]() | Mostra mudanças entre commits, commit e árvore de trabalho |
 | [`git-diff --cached`]() | Esta opção faz com que a entrada apareça como um novo arquivo em "git diff" |
 | [`git-reset`]() | Redefine o HEAD atual para o estado especificado |
