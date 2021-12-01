@@ -1,5 +1,6 @@
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
+[atlassian tutorials](https://www.atlassian.com/br/git/tutorials/what-is-version-control)
 
 | Nome | Descrição |
 | ------ | ------ |
