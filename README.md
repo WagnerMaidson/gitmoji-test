@@ -31,4 +31,4 @@
 | [`git log --oneline -5`](https://chris.beams.io/posts/git-commit)| últimos 5 commits, Este é um atalho para "--pretty = oneline --abbrev-commit" usado junto. |
 | [`Git Aliases`](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) | Criar Alias |
 | [`git-blame`](https://git-scm.com/docs/git-blame) | Mostra qual revisão e autor modificou por último cada linha de um arquivo |
-| [` Reverte alguns commits existentes`](https://git-scm.com/docs/git-revert) | Reverte alguns commits existentes |
+| [`git-revert`](https://git-scm.com/docs/git-revert) | Reverte alguns commits existentes |
