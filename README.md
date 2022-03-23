@@ -32,3 +32,4 @@
 | [`Git Aliases`](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) | Criar Alias |
 | [`git-blame`](https://git-scm.com/docs/git-blame) | Mostra qual revisão e autor modificou por último cada linha de um arquivo |
 | [`git-revert`](https://git-scm.com/docs/git-revert) | Reverte alguns commits existentes |
+| [`git commit  --squash`](https://git-scm.com/docs/git-commit) | Construa uma mensagem de confirmação para uso com rebase --autosquash. A linha de assunto da mensagem do commit é retirada do commit especificado com um prefixo de "squash!". |
