@@ -15,7 +15,7 @@
 | [`git-reset`]() | Redefine o HEAD atual para o estado especificado |
 | [`git-reset --hard`]() | Redefine o índice e a árvore de trabalho. Quaisquer alterações nos arquivos rastreados na árvore de trabalho desde `<commit>` são descartadas. |
 | [`git-add -u`]() | Atualize o índice apenas onde ele já possui uma entrada correspondente a `<pathspec>`. Isso remove e também modifica as entradas de índice para corresponder à árvore de trabalho, mas não adiciona novos arquivos. |
-| [`git-checkout -`]() | Alterne ramos ou restaure arquivos de árvore de trabalho - retorna na última branch |
+| [`git restore --staged`]() | Retorna arquivo adicionado |
 | [`git-checkout -`]() | Alterne ramos ou restaure arquivos de árvore de trabalho - retorna na última branch |
 | [`git-merge --no-ff`]() | Junte dois ou mais históricos de desenvolvimento juntos Com `--no-ff`, crie um commit de mesclagem em todos os casos, mesmo quando a mesclagem pudesse ser resolvida como um avanço rápido. |
 | [`git-stash`]() | Esconde as mudanças em um diretório de trabalho sujo |
